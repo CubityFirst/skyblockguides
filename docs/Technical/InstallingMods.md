@@ -9,5 +9,7 @@ I have previously made a guide for this before, as seen below.
 
 **You can find mods here:** 
 - [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-- [SkyHanni](https://modrinth.com/mod/skyhanni)
+- SkyHanni
+	- [Modrinth](https://modrinth.com/mod/skyhanni)
+	- [Github](https://github.com/hannibal002/SkyHanni/releases)
 - [Skytils](https://github.com/Skytils/SkytilsMod/releases)
