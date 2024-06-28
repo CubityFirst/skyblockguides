@@ -8,8 +8,13 @@ I have previously made a guide for this before, as seen below.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2ZV0tKSNdJI?si=KuIXbIBGofjOaSnY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **You can find mods here:** 
-- [NotEnoughUpdates](https://modrinth.com/mod/notenoughupdates)
-- SkyHanni
+- NotEnoughUpdates -
+	- [Discord](https://discord.gg/moulberry)
+	- [Modrinth](https://modrinth.com/mod/notenoughupdates)
+	- [Github](https://github.com/NotEnoughUpdates/NotEnoughUpdates/releases)
+- SkyHanni -
+	- [Discord](https://discord.gg/skyhanni-997079228510117908)
 	- [Modrinth](https://modrinth.com/mod/skyhanni)
 	- [Github](https://github.com/hannibal002/SkyHanni/releases)
-- [Skytils](https://github.com/Skytils/SkytilsMod/releases)
+- Skytils
+	- [Github](https://github.com/Skytils/SkytilsMod/releases)
