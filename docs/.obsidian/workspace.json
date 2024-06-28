@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Setting up a VM.md",
+                "file": "Technical/InstallingMods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Setting up a VM.md",
+                "file": "Technical/InstallingMods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Setting up a VM.md",
+                "file": "Technical/InstallingMods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Setting up a VM.md"
+                "file": "Technical/InstallingMods.md"
               }
             }
           }
@@ -148,9 +148,9 @@
   },
   "active": "e388d072e1bdf98e",
   "lastOpenFiles": [
+    "Technical/Setting up a VM.md",
     "Introduction.md",
     "Technical/InstallingMods.md",
-    "Technical/Setting up a VM.md",
     "Farming/Best Pets.md",
     "Technical/assets/AttachUSB.png",
     "Technical/assets/VMWareToolsBanner.png",

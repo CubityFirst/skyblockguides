@@ -1,7 +1,7 @@
 ---
 title: Installing Mods
 ---
-I recommend using [MultiMC](https://multimc.org/). This is a Minecraft Launcher that will allow multiple versions of Minecraft to be launched at the same time, with an easier GUI for mod management.
+I recommend using [MultiMC](https://multimc.org/) or [Prism](https://prismlauncher.org/). This is a Minecraft Launcher that will allow multiple versions of Minecraft to be launched at the same time, with an easier GUI for mod management.
 
 I have previously made a guide for this before, as seen below.
 
