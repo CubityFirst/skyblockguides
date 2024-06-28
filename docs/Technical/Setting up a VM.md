@@ -1,13 +1,15 @@
 ---
 sidebar_position: 1
 ---
-:::danger[This is a work in progress document]
-Please be aware, I'm still actively writing this document. Please let me know if there's any mistakes that you find, or issues, or other related problems.
+:::danger[New Guide]
+This is a new document. Please be aware that there might be mistakes.  
+
+If you find a mistake, please ping `cubityfirst` in the [Elite Farmers Discord](https://discord.gg/farms)
 :::
 
 ## Why farm in a VM?
 
-Playing inside of a VM has one major benefit. You can bind additional HID periphals from outside of the VM to the VM exclusively. This allows you to input on the game seperately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than literally just farming.
+Playing inside of a VM has one major benefit. You can bind additional HID peripherals from outside of the VM to the VM exclusively. This allows you to input on the game separately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than literally just farming.
 
 As of recent updates, Broadcom has made the professional version of VMWare workstation available for free, however, you need to create an account and download it from their site.
 ## Requirements
@@ -45,7 +47,7 @@ You should now see a screen that looks like this.
 14. Start the VM. 
 
 :::warning[Mouse Stuck?]
-If your mouse is stuck inside of the Window, you can press `Ctrl + Alt` to release it.
+If your mouse gets stuck inside of the Virtual Machine, you can press `Ctrl + Alt` to release it.
 :::
 
 15. Click next, and click the button that says `I don't have a product key`.

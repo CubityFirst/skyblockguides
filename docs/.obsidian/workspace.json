@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Farming/Best Pets.md"
+                "file": "Technical/Setting up a VM.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "e388d072e1bdf98e",
   "lastOpenFiles": [
-    "Technical/Setting up VMWare.md",
+    "Farming/Best Pets.md",
+    "Technical/Setting up a VM.md",
     "Technical/InstallingMods.md",
     "Technical/assets/AttachUSB.png",
     "Technical/assets/VMWareToolsBanner.png",
@@ -160,7 +161,6 @@
     "Technical/assets/LabConfig.png",
     "Technical/assets/TPMBIOS.png",
     "Technical/assets/vmware_nWlumdKnKl.png",
-    "Farming/Best Pets.md",
     "Technical/assets",
     "Introduction.md",
     "Farming/Untitled.md",
