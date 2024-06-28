@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e388d072e1bdf98e",
+  "active": "f9fd98aff11b6131",
   "lastOpenFiles": [
-    "Introduction.md",
+    "Technical/assets/ISO.png",
+    "Technical/assets/blankVMWare.png",
     "Technical/Setting up VMWare.md",
+    "Technical/assets",
+    "Introduction.md",
     "Farming/Best Pets.md",
     "Farming/assets/bestpetgraph.png",
     "Farming/Untitled.md",
