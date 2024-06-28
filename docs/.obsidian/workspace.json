@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technical/Setting up VMWare.md",
+                "file": "Technical/Installing Mods.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Setting up VMWare.md",
+                "file": "Technical/Installing Mods.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Setting up VMWare.md",
+                "file": "Technical/Installing Mods.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Setting up VMWare.md"
+                "file": "Technical/Installing Mods.md"
               }
             }
           }
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f9fd98aff11b6131",
+  "active": "e388d072e1bdf98e",
   "lastOpenFiles": [
+    "Farming/Best Pets.md",
+    "Technical/Installing Mods.md",
+    "Technical/Setting up VMWare.md",
     "Technical/assets/ISO.png",
     "Technical/assets/blankVMWare.png",
-    "Technical/Setting up VMWare.md",
     "Technical/assets",
     "Introduction.md",
-    "Farming/Best Pets.md",
     "Farming/assets/bestpetgraph.png",
     "Farming/Untitled.md",
     "Farming/assets",
