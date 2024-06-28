@@ -21,7 +21,7 @@ You can find the download [here](https://support.broadcom.com/group/ecx/productd
 ## Steps
 
 1. Download [VMWare Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro) from Broadcom. You will need to make an account.
-2. Download a [Windows 11 ISO](https://www.microsoft.com/software-download/windows11) from Microsoft.
+2. Download a [Windows 11 ISO](https://www.microsoft.com/software-download/windows11) from Microsoft. (Under the header "Download Windows 11 Disk Image (ISO) for x64 devices")
 3. Run the installer for VMWare Workstation Pro
 4. Skip through & install the application.
 5. Open VMWare Workstation Pro
@@ -40,7 +40,16 @@ You should now see a screen that looks like this.
 10. Enter a password that you will remember. This is required for the VM to be created.
 11. Choose a disk size. (64GB is fine. Changing this to a single file will slightly help performance.)
 12. Press Next  / Complete this creation process.
-13. 
+13. Turn the VM off under `VM` > `Power` > `Shut Down Guest`
+![RemoveTPM.png](./assets/TPMBIOS.png)
+14. Start the VM. Windows will now install.
+15. Click next, and click the button that says `I don't have a product key`.
+16. Select `Windows 11 Pro`
+17. Before you press Next, 
+
+
+
+
 
 ---
 
