@@ -14,9 +14,10 @@ Playing inside of a VM has one major benefit. You can bind additional HID periph
 As of recent updates, Broadcom has made the professional version of VMWare workstation available for free, however, you need to create an account and download it from their site.
 ## Requirements
 
-- A modern computer that is capable of Virtualization.
+- A modern computer that is capable of virtualization.
 	- If your computer is older, it might not support the required technologies to use this.  
 	  You can check [here](https://ark.intel.com/content/www/us/en/ark.html) for Intel chips, and [here](https://www.amd.com/en/products/specifications/processors.html) for AMD chips.
+- A spare keyboard and mouse. (if you want to control the VM independently)
 
 
 ---
