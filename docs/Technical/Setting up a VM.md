@@ -12,8 +12,8 @@ If you find a mistake in this document, please ping me (`cubityfirst`) in the [E
 Playing inside of a VM has one **major** benefit. You can bind additional HID peripherals from outside of the VM to the VM exclusively. This allows you to input on the game separately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than just farming.
 ## Requirements
 
-- A modern computer that is capable of virtualization.
-	- If your computer is older, it might not support the required technologies to use this.  
+- A modern computer that is capable of virtualization and has it enabled. (You can check if it's enabled in Task Manager -> Performance -> CPU ->Virtualisation : Yes)
+	- If your computer is older, it might not support the required technologies to use a VM.
 	  You can check [here](https://ark.intel.com/content/www/us/en/ark.html) for Intel chips, and [here](https://www.amd.com/en/products/specifications/processors.html) for AMD chips.
 - A spare keyboard and mouse. (if you want to control the VM independently)
 
