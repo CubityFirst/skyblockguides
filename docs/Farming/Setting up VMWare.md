@@ -20,4 +20,4 @@ A few things to note ;
 
 # Steps
 
-1. Download VMWare Workstation Pro
+1. Download VMWare Workstation Pro from [here](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro).
