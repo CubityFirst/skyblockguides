@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Technical/Setting up a VM.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "e388d072e1bdf98e",
   "lastOpenFiles": [
+    "Introduction.md",
     "Technical/Setting up a VM.md",
     "Farming/Best Pets.md",
     "Technical/InstallingMods.md",
@@ -162,7 +163,6 @@
     "Technical/assets/TPMBIOS.png",
     "Technical/assets/vmware_nWlumdKnKl.png",
     "Technical/assets",
-    "Introduction.md",
     "Farming/Untitled.md",
     "Farming/assets",
     "Technical"
