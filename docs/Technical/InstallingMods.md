@@ -18,3 +18,5 @@ I have previously made a guide for this before, as seen below.
 	- [Github](https://github.com/hannibal002/SkyHanni/releases)
 - Skytils -
 	- [Github](https://github.com/Skytils/SkytilsMod/releases)
+- Farming Macro
+	- [Tutorial](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
