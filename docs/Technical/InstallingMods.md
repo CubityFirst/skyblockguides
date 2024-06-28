@@ -16,5 +16,5 @@ I have previously made a guide for this before, as seen below.
 	- [Discord](https://discord.gg/skyhanni-997079228510117908)
 	- [Modrinth](https://modrinth.com/mod/skyhanni)
 	- [Github](https://github.com/hannibal002/SkyHanni/releases)
-- Skytils
+- Skytils -
 	- [Github](https://github.com/Skytils/SkytilsMod/releases)
