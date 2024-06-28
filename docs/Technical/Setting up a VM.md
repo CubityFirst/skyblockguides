@@ -4,7 +4,7 @@ sidebar_position: 1
 :::danger[New Guide]
 This is a new document. Please be aware that there might be mistakes.  
 
-If you find a mistake, please ping `cubityfirst` in the [Elite Farmers Discord](https://discord.gg/farms)
+If you find a mistake in this document, please ping me (`cubityfirst`) in the [Elite Farmers Discord](https://discord.gg/farms)
 :::
 
 ## Why farm in a VM?
@@ -15,7 +15,8 @@ As of recent updates, Broadcom has made the professional version of VMWare works
 ## Requirements
 
 - A modern computer that is capable of Virtualization.
-	- If your computer is older, it might not support the required technologies to use this. You can check [here](https://ark.intel.com/content/www/us/en/ark.html) for Intel chips, and [here](https://www.amd.com/en/products/specifications/processors.html) for AMD chips.
+	- If your computer is older, it might not support the required technologies to use this.  
+	  You can check [here](https://ark.intel.com/content/www/us/en/ark.html) for Intel chips, and [here](https://www.amd.com/en/products/specifications/processors.html) for AMD chips.
 
 
 ---
