@@ -9,7 +9,7 @@ If you find a mistake in this document, please ping me (`cubityfirst`) in the [E
 
 ## Why farm in a VM?
 
-Playing inside of a VM has one **major** benefit. You can bind additional HID peripherals from outside of the VM to the VM exclusively. This allows you to input on the game separately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than literally just farming.
+Playing inside of a VM has one **major** benefit. You can bind additional HID peripherals from outside of the VM to the VM exclusively. This allows you to input on the game separately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than just farming.
 
 As of recent updates, Broadcom has made the professional version of VMWare workstation available for free, however, you need to create an account and download it from their site.
 ## Requirements
