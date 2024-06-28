@@ -2,7 +2,7 @@
 Please be aware, I'm still actively writing this document. Please let me know if there's any mistakes that you find, or issues, or other related problems.
 :::
 
-# Why farm in a VM?
+## Why farm in a VM?
 
 Playing inside of a VM has one major benefit. You can bind additional HID periphals from outside of the VM to the VM exclusively. This allows you to input on the game seperately to any other application on your computer, allowing you to play multiple games at once, navigate around your computer, or use your computer for more than literally just farming.
 
@@ -18,7 +18,7 @@ You can find the download [here](https://support.broadcom.com/group/ecx/productd
 
 ---
 
-# Steps
+## Steps
 
 1. Download [VMWare Workstation Pro](https://support.broadcom.com/group/ecx/productdownloads?subfamily=VMware%20Workstation%20Pro) from Broadcom. You will need to make an account.
 2. Download a [Windows 11 ISO](https://www.microsoft.com/software-download/windows11) from Microsoft.
