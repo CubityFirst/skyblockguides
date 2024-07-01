@@ -90,6 +90,12 @@ On the bottom of your VM, you should see a yellow bar prompting you to install V
 
 ![VMWareToolsBanner.png](./assets/VMWareToolsBanner.png)
 
+:::info [Did this not appear?]
+If the VMWare Tools banner doesn't appear at the bottom of your screen, press `VM` -> `Install (or Upgrade) VMware Tools`.
+
+This acts the same as pressing `Install Tools` as above.
+:::
+
 ![VMWareToolsDrive.png](./assets/VMWareToolsDrive.png)
 
 Accept the Windows UAC prompt, and press `Next` until you get to the end of the installer and press `Yes` to reboot. 
