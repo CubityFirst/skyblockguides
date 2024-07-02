@@ -11,6 +11,7 @@ const config = {
   title: 'Cubity Guides',
   tagline: 'Guides for things.',
   favicon: 'img/favicon.ico',
+  trailingSlash: false,
 
   // Set the production url of your site here
   url: 'https://guides.cubityfir.st',
