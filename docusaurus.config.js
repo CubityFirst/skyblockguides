@@ -68,7 +68,7 @@ const config = {
         appId: 'FCZUVUBVTP',
   
         // Public API key: it is safe to commit it
-        apiKey: '9c3752af91cb6c23148696ce1e3d2e00',
+        apiKey: '0058bb00606bdab04fe555ae5cf8d576',
   
         indexName: 'guides-cubityfir',
   
