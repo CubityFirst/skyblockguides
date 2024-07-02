@@ -63,6 +63,34 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'FCZUVUBVTP',
+  
+        // Public API key: it is safe to commit it
+        apiKey: '9c3752af91cb6c23148696ce1e3d2e00',
+  
+        indexName: 'guides-cubityfir',
+  
+        // Optional: see doc section below
+        contextualSearch: true,
+  
+        // Optional: Specify domains where the navigation should occur through window.location instead on history.push. Useful when our Algolia config crawls multiple documentation sites and we want to navigate with window.location.href to them.
+        externalUrlRegex: 'external\\.com|domain\\.com',
+  
+        // Optional: Replace parts of the item URLs from Algolia. Useful when using the same search index for multiple deployments using a different baseUrl. You can use regexp or string in the `from` param. For example: localhost:3000 vs myCompany.com/docs
+  
+        // Optional: Algolia search parameters
+        searchParameters: {},
+  
+        // Optional: path for search page that enabled by default (`false` to disable it)
+        searchPagePath: 'search',
+  
+        // Optional: whether the insights feature is enabled or not on Docsearch (`false` by default)
+        insights: false,
+  
+        //... other Algolia params
+      },
       // Replace with your project's social card
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
