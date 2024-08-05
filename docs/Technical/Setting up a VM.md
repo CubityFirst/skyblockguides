@@ -107,10 +107,19 @@ You have a virtual machine for whatever you want to use it for. If you want to i
 
 If you want to pass a Keyboard & Mouse through to the VM directly, you can do that by going to `VM` -> `Removeable Devices` -> `TheDeviceYouWant` -> `Connect (Disconnect From Host)`. 
 
-:::info Mouse issues?
-If you're having weird mouse issues (inconsistent acceleration / gliding issues) you can modify your .vmx file to change the mouse mode to "Gaming"
+:::info Device not showing?
 
-You can add `mks.gamingMouse.policy = "gaming"` to your .vmx file in the location you save your VM files (by default this is `C:\Users\%user%\Documents\Virtual Machines`).
+Sometimes certain devices won't show in your list of removeable devices. Please navigate to your  virtual machine settings with the VM off, and enable this setting.
+
+![UnhideUSBDevices.png](./assets/UnhideUSBDevices.png)
+:::
+
+:::info Mouse issues?
+If you're having weird mouse issues (inconsistent acceleration / gliding issues) you can modify your .vmx file to change the mouse mode to "Gaming".
+
+This will typically only happen if you click your main mouse into the VM as opposed to using a seperate mouse that is locked to that window specifically.
+
+To fix this, add `mks.gamingMouse.policy = "gaming"` to your .vmx file in the location you save your VM files (by default this is `C:\Users\%user%\Documents\Virtual Machines`).
 :::
 
 ---

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 314.5
   },
   "right": {
     "id": "6578053c43664a98",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Introduction.md",
+                "file": "Technical/Setting up a VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Introduction.md"
+                "file": "Technical/Setting up a VM.md"
               }
             }
           }
@@ -148,6 +148,8 @@
   },
   "active": "5fc17fab27309261",
   "lastOpenFiles": [
+    "Technical/assets/UnhideUSBDevices.png",
+    "Introduction.md",
     "Technical/Setting up a VM.md",
     "Technical/InstallingMods.md",
     "Pasted image 20240727234848.png",
@@ -158,7 +160,6 @@
     "Untitled 1.canvas",
     "Farming/Best Pets.md",
     "Farming/assets/bestpetgraph.png",
-    "Introduction.md",
     "Technical/assets/AttachUSB.png",
     "Technical/assets/VMWareToolsBanner.png",
     "Technical/assets/VMWareToolsDrive.png",
