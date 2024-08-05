@@ -5,7 +5,7 @@ I have had many questions on how to set up a VM for a number of different use-ca
 
 :::danger[New Guide]
 
-I reserve the right not to help with specific VM-related issues if you experience issues.
+I reserve the right not to help with specific VM-related issues if you experience issues. Some base level technical knowledge is required to follow this guide.
 
 If you find a mistake in this document, please ping me (`cubityfirst`) in the [Elite Farmers Discord](https://discord.gg/farms)
 :::
