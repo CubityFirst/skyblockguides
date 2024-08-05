@@ -1,8 +1,11 @@
 ---
 sidebar_position: 1
 ---
+I have had many questions on how to set up a VM for a number of different use-cases. This is the best guide to follow for how to set this up.
+
 :::danger[New Guide]
-This is a new document. Please be aware that there might be mistakes.  
+
+I reserve the right not to help with specific VM-related issues if you experience issues.
 
 If you find a mistake in this document, please ping me (`cubityfirst`) in the [Elite Farmers Discord](https://discord.gg/farms)
 :::
@@ -104,6 +107,11 @@ You have a virtual machine for whatever you want to use it for. If you want to i
 
 If you want to pass a Keyboard & Mouse through to the VM directly, you can do that by going to `VM` -> `Removeable Devices` -> `TheDeviceYouWant` -> `Connect (Disconnect From Host)`. 
 
+:::info Mouse issues?
+If you're having weird mouse issues (inconsistent acceleration / gliding issues) you can modify your .vmx file to change the mouse mode to "Gaming"
+
+You can add `mks.gamingMouse.policy = "gaming"` to your .vmx file in the location you save your VM files (by default this is `C:\Users\%user%\Documents\Virtual Machines`).
+:::
 
 ---
 

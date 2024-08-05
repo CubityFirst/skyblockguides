@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a62ad48d099077a",
+        "id": "3ce25893f8545503",
         "type": "tabs",
         "children": [
           {
-            "id": "e388d072e1bdf98e",
+            "id": "5fc17fab27309261",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Farming/Best Pets.md",
+                "file": "Technical/Setting up a VM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Farming/Best Pets.md"
+                "file": "Technical/Setting up a VM.md"
               }
             }
           }
@@ -146,23 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e388d072e1bdf98e",
+  "active": "5fc17fab27309261",
   "lastOpenFiles": [
-    "Farming/assets/bestpetgraph.png",
-    "Technical/Setting up a VM.md",
     "Technical/InstallingMods.md",
-    "Introduction.md",
+    "Technical/Setting up a VM.md",
+    "Pasted image 20240727234848.png",
+    "Untitled.canvas",
+    "Pasted image 20240727234615.png",
+    "Pasted image 20240727234752.png",
+    "Pasted image 20240727234818.png",
+    "Untitled 1.canvas",
     "Farming/Best Pets.md",
+    "Farming/assets/bestpetgraph.png",
+    "Introduction.md",
     "Technical/assets/AttachUSB.png",
     "Technical/assets/VMWareToolsBanner.png",
     "Technical/assets/VMWareToolsDrive.png",
     "Technical/assets/DomainAccount.png",
     "Technical/assets/RegistryKeys.png",
-    "Technical/assets/vmware_T7y554mlht.png",
-    "Technical/assets/RegistryKeyBypassTPM.png",
-    "Technical/assets/LabConfig.png",
-    "Technical/assets/TPMBIOS.png",
-    "Technical/assets/vmware_nWlumdKnKl.png",
     "Technical/assets",
     "Farming/Untitled.md",
     "Farming/assets",
