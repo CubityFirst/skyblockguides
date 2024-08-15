@@ -48,7 +48,8 @@ As someone who farms 12+ hours a day on average over a 30 day period, it is phys
 
 There are a few ways to fix flies as it stands, the simplest is to just bring it inline with the other pests in terms of drop rate for their individual crops by making them drop higher quantities of Enchanted Haybales instead of Tightly Tied Haybales, or drastically reducing the drop rate for Tightly Tied Haybales.
 
-Some would prefer that it's changed so that flies are still beneficial in terms of money per hour, but not in a way that would impact the leaderboards (for example removing pests from contributing towards crop collections).
+Some would prefer that it's changed so that flies are still beneficial in terms of money per hour, but not in a way that would impact the leaderboards (for example removing pests from contributing towards crop collections). (If this is done though, wheat PBs should be reset to ensure that everyone is on an equal footing).
+
 
 Another suggestion that has been put forward is to remove the wheat from their drop table entirely, and replace it with something that would be beneficial elsewhere in the farming skill that don't have an existing leaderboard (Cropies, Squash, Fermento), or new items entirely that benefit a different skill (Hunting XP, or something that would be beneficial towards that system).
 
