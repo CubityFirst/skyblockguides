@@ -19,7 +19,7 @@ This is a mistake that has been made before. Famously the wheat hoe was prohibit
 Other Crops : 1x160x160 = 25600  
 Wheat : 1x9x144x144 = 186624
 
-This is something that is clearly wrong with this. The ratio itself is fine, but the issue is that flies are dropping tightly tied haybales instead of enchanted haybales, and that the quantity that you get in terms of collection is massively disproportionate.
+There is something that is clearly wrong with this. The ratio itself is fine, but the issue is that flies are dropping quantities of wheat beyond any other crop. This is both attributed to the Tightly-Tied Hay Bale, but more important the Enchanted Haybales themselves. (75% of the total gain)
 
 ![weight_gained.png](./assets/weight_gained.png)
 
@@ -43,10 +43,10 @@ If Golden Goblins magically gave 100,000,000 Gemstones per hour, there would be 
 
 No-one argues against pests existing at all (despite Macros existing to do them automatically as early as Day 2 of the Alpha), just that the Flies specifically are so completely out of balance that it doesn't make sense to do the main farming activity if you're pushing for leaderboard spots.
 
-As someone who farms 12+ hours a day on average over a 30 day period, it is physically impossible for me to keep up with people that pest farm flies. I'm not against pests making more money, but it shouldn't be the single best way to get the collection for activity.
+As someone who farms 12+ hours a day on average over a 30 day period, it is physically impossible for me to keep up with people that pest farm flies. I'm not against pests making more money, but it shouldn't be the single best way to gain collection for the crop..
 ## How do we fix it?
 
-There are a few ways to fix flies as it stands, the simplest is to just bring it inline with the other pests in terms of drop rate for their individual crops by making them drop higher quantities of Enchanted Haybales instead of Tightly Tied Haybales, or drastically reducing the drop rate for Tightly Tied Haybales.
+There are a few ways to fix flies as it stands, the simplest is to just bring it inline with the other pests in terms of drop rate for their individual crops by making them drop higher quantities of lower grade materials, instead of the high-quantity of Enchanted Hay Bales & TTHBs.
 
 Some would prefer that it's changed so that flies are still beneficial in terms of money per hour, but not in a way that would impact the leaderboards (for example removing pests from contributing towards crop collections). (If this is done though, wheat PBs should be reset to ensure that everyone is on an equal footing (and potentially remove pests from contests entirely)).
 
