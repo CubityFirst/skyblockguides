@@ -29,7 +29,7 @@ Euclid Wheat hoes were nerfed in cost when the garden came out when people reali
 
 ## How do you break pest farming?
 
-As it stands, Pest Farming has a few quirks that makes it the most effective tactic available. Cactus & Cane have a "bug" where since you're breaking the middle block of a two block tall crop (effectively), you get double the drop-rate on certain items such as Strawberry Dyes, or Pest Spawns.
+As it stands, Pest Farming has a few quirks that makes it the most effective tactic available. Cactus & Cane have a "bug" where since you're breaking the middle block of a two block tall crop (effectively), you get double the drop-rate on certain items such as Fermentos, or Pest Spawns.
 
 Additionally, with Spray, Pest Vest, and other buffs you can spawn 5-6 pests every two minutes.
 
@@ -60,7 +60,7 @@ The top 5 wheat farmers have all been in agreement that this is damaging towards
 
 In order (and on the Wheat Leaderboard)
 
-1. Bankhier (#1 Wheat Farmer, #2 Farmer Total)
+1. Bankhier (#1 Wheat Farmer, #2 Farmer Overall)
 2. IdkVenom (#2 Wheat Farmer)
 3. Sau_Del (#3 Wheat Farmer, #1 in Flies)
 4. Cubity_First (#4 Wheat Farmer)
@@ -72,5 +72,6 @@ And other notable guests -
 1. Chissl (#2 Melon)
 2. Kaeso (Ke5o) (Developer of elitebot.dev)
 3. DeadlyIPanda (#3 Melon)
+4. Binrich (Highest Known Wheat Contest Score @ 2.223m)
 
 There are more, but due to time constraints on this document, I haven't been able to get an exhaustive list of everyone against.

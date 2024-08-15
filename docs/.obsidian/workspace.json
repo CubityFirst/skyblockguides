@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Writings/Please Nerf Flys.md",
+                "file": "Writings/Please Nerf Flies.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Writings/Please Nerf Flys.md",
+                "file": "Writings/Please Nerf Flies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Writings/Please Nerf Flys.md",
+                "file": "Writings/Please Nerf Flies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Writings/Please Nerf Flys.md"
+                "file": "Writings/Please Nerf Flies.md"
               }
             }
           }
@@ -163,7 +163,7 @@
   "lastOpenFiles": [
     "Writings/assets",
     "Technical/Setting up a VM.md",
-    "Writings/Please Nerf Flys.md",
+    "Writings/Please Nerf Flies.md",
     "Writings/assets/weight_gained.png",
     "Writings",
     "Technical/assets/UnhideUSBDevices.png",
