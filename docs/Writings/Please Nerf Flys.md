@@ -16,7 +16,7 @@ In an hour you can harvest roughly 4.53m carrots, which would result in ~15 farm
 
 This is a mistake that has been made before. Famously the wheat hoe was prohibitively expensive due to a mix-up in the recipe not considering the fact that the wheat had a different compression ratio compared to most other comparable crops.
 
-Other Crops : 1x160x160 = 25600
+Other Crops : 1x160x160 = 25600  
 Wheat : 1x9x144x144 = 186624
 
 This is something that is clearly wrong with this. The ratio itself is fine, but the issue is that flies are dropping tightly tied haybales instead of enchanted haybales, and that the quantity that you get in terms of collection is massively disproportionate.
