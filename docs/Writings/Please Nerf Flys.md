@@ -71,5 +71,6 @@ And other notable guests -
 
 1. Chissl (#2 Melon)
 2. Kaeso (Ke5o) (Developer of elitebot.dev)
+3. DeadlyIPanda (#3 Melon)
 
 There are more, but due to time constraints on this document, I haven't been able to get an exhaustive list of everyone against.
