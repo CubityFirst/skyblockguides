@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60c80f63b22c616c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Writings/Please Nerf Flys.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technical/Setting up a VM.md",
+                "file": "Writings/Please Nerf Flys.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technical/Setting up a VM.md",
+                "file": "Writings/Please Nerf Flys.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technical/Setting up a VM.md"
+                "file": "Writings/Please Nerf Flys.md"
               }
             }
           }
@@ -146,11 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5fc17fab27309261",
+  "active": "60c80f63b22c616c",
   "lastOpenFiles": [
+    "Writings/assets",
+    "Technical/Setting up a VM.md",
+    "Writings/Please Nerf Flys.md",
+    "Writings/assets/weight_gained.png",
+    "Writings",
     "Technical/assets/UnhideUSBDevices.png",
     "Introduction.md",
-    "Technical/Setting up a VM.md",
     "Technical/InstallingMods.md",
     "Pasted image 20240727234848.png",
     "Untitled.canvas",
@@ -163,8 +180,6 @@
     "Technical/assets/AttachUSB.png",
     "Technical/assets/VMWareToolsBanner.png",
     "Technical/assets/VMWareToolsDrive.png",
-    "Technical/assets/DomainAccount.png",
-    "Technical/assets/RegistryKeys.png",
     "Technical/assets",
     "Farming/Untitled.md",
     "Farming/assets",
