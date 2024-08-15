@@ -25,7 +25,7 @@ This is something that is clearly wrong with this. The ratio itself is fine, but
 
 The graph above shows how wildly out of balance this is, and with how unbalanced this is, it feels more like a mistake than an intentional piece of game design.
 
-Euclid Wheat hoes were nerfed in cost when the garden came out when people realized that the recipe was disproportionately high due to the difference in compression ratio.
+Euclid Wheat hoes were nerfed in cost when the garden came out after people realized that the recipe was disproportionately high due to the difference in compression ratio.
 
 ## How do you break pest farming?
 
