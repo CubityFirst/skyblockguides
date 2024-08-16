@@ -3,15 +3,6 @@
 Flies are disproportionately powerful compared to the other pests available, and this is negatively impacting the integrity of the leaderboard. 
 
 Please reduce the drop-rate / quantity of wheat from flies to bring it in line with other crops.
-## Who we are
-
-I (the person writing this) am CubityFirst, and I'm presently #4 in Wheat, #2 in Seeds, and #8 in Total Farming Weight, and have been farming for ~5000 hours.
-
-The Hypixel Skyblock farming community (which exists predominately in "Elite Skyblock Farmers") uses a system called "Farming Weight" to approximate the differences between these crops and to have one total number that you can use to compare players, despite them potentially having wildly different farming histories. You can read more about the Farming Weight System [here](https://elitebot.dev/info).
-This allows for comparison between different disciplines despite the numbers themselves being wildly different, for example -
-
-In an hour you can harvest roughly 4.53m carrots, which would result in ~15 farming weight. An hour of Wheat farming would give ~1.5m Wheat (and some number of seeds), which would result in ~15 farming weight.
-
 ## What is the actual issue?
 
 This is a mistake that has been made before. Famously the wheat hoe was prohibitively expensive due to a mix-up in the recipe not considering the fact that the wheat had a different compression ratio compared to most other comparable crops.
@@ -27,6 +18,10 @@ The graph above shows how wildly out of balance this is, and with how unbalanced
 
 Euclid Wheat hoes were nerfed in cost when the garden came out after people realized that the recipe was disproportionately high due to the difference in compression ratio.
 
+(The farming community uses a system called "Farming Weight" to approximate the differences between these crops and to have one total number that you can use to compare players, despite them potentially having wildly different farming histories. You can read more about the Farming Weight System [here](https://elitebot.dev/info).
+This allows for comparison between different disciplines despite the numbers themselves being wildly different, for example - In an hour you can harvest roughly 4.53m carrots, which would result in ~15 farming weight. An hour of Wheat farming would give ~1.5m Wheat (and some number of seeds), which would result in ~15 farming weight.
+
+This allows the graph to be balanced around the amount of effort required for each crop collection.)
 ## How do you break pest farming?
 
 As it stands, Pest Farming has a few quirks that makes it the most effective tactic available. Cactus & Cane have a "bug" where since you're breaking the middle block of a two block tall crop (effectively), you get double the drop-rate on certain items such as Fermentos, or Pest Spawns.
