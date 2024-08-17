@@ -59,7 +59,7 @@ In order (and on the Wheat Leaderboard)
 1. Bankhier (#1 Wheat Farmer, #2 Farmer Overall)
 2. IdkVenom (#2 Wheat Farmer)
 3. Sau_Del (#3 Wheat Farmer, #1 in Flies)
-4. Cubity_First (#4 Wheat Farmer)
+4. CubityFirst (#4 Wheat Farmer)
 5. B3n5ku (#5 Wheat Farmer)
 6. Erksterr (#7 Wheat Farmer)
 
