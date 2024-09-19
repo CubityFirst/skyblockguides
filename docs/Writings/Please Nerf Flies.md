@@ -65,9 +65,8 @@ In order (and on the Wheat Leaderboard)
 
 And other notable guests -
 
-1. Chissl (#2 Melon)
-2. Kaeso (Ke5o) (Developer of elitebot.dev)
-3. DeadlyIPanda (#3 Melon)
-4. Binrich (Highest Known Wheat Contest Score @ 2.223m)
+1. Kaeso (Ke5o) (Developer of elitebot.dev)
+2. DeadlyIPanda (#3 Melon)
+3. Binrich (Highest Known Wheat Contest Score @ 2.223m)
 
 There are more, but due to time constraints on this document, I haven't been able to get an exhaustive list of everyone against.

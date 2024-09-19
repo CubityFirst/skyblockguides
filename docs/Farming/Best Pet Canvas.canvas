@@ -1,0 +1,31 @@
+{
+	"nodes":[
+		{"id":"7dc1e93a363aed56","type":"text","text":"What are you farming for?","x":-219,"y":-316,"width":250,"height":60,"color":"4"},
+		{"id":"441a74adbf98b125","type":"text","text":"Rabbit","x":-580,"y":-149,"width":250,"height":60},
+		{"id":"e6c7250d8d2ad696","type":"text","text":"Are you farming mushrooms?","x":-46,"y":-10,"width":250,"height":60},
+		{"id":"47748a04d0513ee1","type":"text","text":"Do you have atleast 1143 strength?","x":112,"y":198,"width":250,"height":60},
+		{"id":"87be7d8c0ab42148","type":"text","text":"Elephant","x":274,"y":365,"width":250,"height":60},
+		{"id":"177b2e84964231c9","type":"text","text":"Mooshroom Cow","x":-46,"y":365,"width":250,"height":60},
+		{"id":"5ae5c90c535ae655","type":"text","text":"Mooshroom Cow","x":-185,"y":198,"width":250,"height":60},
+		{"id":"fb6e64082a2ce145","type":"text","text":"Mooshroom Cow","x":-380,"y":-10,"width":250,"height":60},
+		{"id":"e4b1d1e695abeea1","type":"text","text":"Are you farming a crop that can use a Daedalus Axe? (and can you afford at least Chimera 2)","x":411,"y":-80,"width":250,"height":129},
+		{"id":"9ab45d5fc243f01f","type":"text","text":"T-REX","x":274,"y":109,"width":250,"height":60},
+		{"id":"35e92070fdd4e1ae","type":"text","text":"Slug","x":551,"y":109,"width":250,"height":60},
+		{"id":"7faf0acada72769f","type":"text","text":"Slug","x":740,"y":-80,"width":250,"height":60},
+		{"id":"97f23640be597cc7","type":"text","text":"Do you have max pest bestiary?","x":580,"y":-200,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"d26ebbb9b7036106","fromNode":"7dc1e93a363aed56","fromSide":"bottom","toNode":"441a74adbf98b125","toSide":"top","color":"2","label":"XP"},
+		{"id":"1f67beb4ace3fbf9","fromNode":"7dc1e93a363aed56","fromSide":"bottom","toNode":"fb6e64082a2ce145","toSide":"top","color":"3","label":"Money"},
+		{"id":"6b959bf9c6c37a26","fromNode":"7dc1e93a363aed56","fromSide":"bottom","toNode":"e6c7250d8d2ad696","toSide":"top","color":"5","label":"Collection"},
+		{"id":"3c8ce6e15405ac49","fromNode":"e6c7250d8d2ad696","fromSide":"bottom","toNode":"5ae5c90c535ae655","toSide":"top","color":"5","label":"Yes"},
+		{"id":"7c45bd0948c9b71d","fromNode":"e6c7250d8d2ad696","fromSide":"bottom","toNode":"47748a04d0513ee1","toSide":"top","color":"5","label":"No"},
+		{"id":"04e66f03dde8c57d","fromNode":"47748a04d0513ee1","fromSide":"bottom","toNode":"177b2e84964231c9","toSide":"top","color":"5","label":"Yes"},
+		{"id":"c29363c39222fe96","fromNode":"47748a04d0513ee1","fromSide":"bottom","toNode":"87be7d8c0ab42148","toSide":"top","color":"5","label":"No"},
+		{"id":"42f431d909f8478d","fromNode":"e4b1d1e695abeea1","fromSide":"bottom","toNode":"9ab45d5fc243f01f","toSide":"top","color":"6","label":"Yes"},
+		{"id":"22bde71ecf029c0c","fromNode":"e4b1d1e695abeea1","fromSide":"bottom","toNode":"35e92070fdd4e1ae","toSide":"top","color":"6","label":"No"},
+		{"id":"9a8b556b2ee6626b","fromNode":"97f23640be597cc7","fromSide":"bottom","toNode":"7faf0acada72769f","toSide":"top","color":"6","label":"No"},
+		{"id":"9881eda06dc02750","fromNode":"97f23640be597cc7","fromSide":"bottom","toNode":"e4b1d1e695abeea1","toSide":"top","color":"6","label":"Yes"},
+		{"id":"3297100a877d1e78","fromNode":"7dc1e93a363aed56","fromSide":"bottom","toNode":"97f23640be597cc7","toSide":"top","color":"6","label":"Pests"}
+	]
+}
